@@ -30,7 +30,6 @@ int main(){
         return 0;
     }
 
-    //printf("Vida: %lf e Dano: %lf\n", vida, dano);
     double calculo = vida - dano;
 
     if(calculo>0.00){
